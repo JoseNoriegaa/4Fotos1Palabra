@@ -58,6 +58,12 @@
     <Compile Include="frm_Menu.Designer.cs">
       <DependentUpon>frm_Menu.cs</DependentUpon>
     </Compile>
+    <Compile Include="fWaitForTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fWaitForTask.Designer.cs">
+      <DependentUpon>fWaitForTask.cs</DependentUpon>
+    </Compile>
     <Compile Include="GameManager.cs" />
     <Compile Include="Juego.cs">
       <SubType>Form</SubType>
@@ -76,6 +82,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frm_Menu.resx">
       <DependentUpon>frm_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fWaitForTask.resx">
+      <DependentUpon>fWaitForTask.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Juego.resx">
       <DependentUpon>Juego.cs</DependentUpon>
