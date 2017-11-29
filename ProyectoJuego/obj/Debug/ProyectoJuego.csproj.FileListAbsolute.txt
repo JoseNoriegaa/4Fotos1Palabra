@@ -1,0 +1,16 @@
+c:\users\noriega\source\repos\ProyectoJuego\ProyectoJuego\bin\Debug\ProyectoJuego.exe.config
+c:\users\noriega\source\repos\ProyectoJuego\ProyectoJuego\bin\Debug\ProyectoJuego.exe
+c:\users\noriega\source\repos\ProyectoJuego\ProyectoJuego\bin\Debug\ProyectoJuego.pdb
+c:\users\noriega\source\repos\ProyectoJuego\ProyectoJuego\bin\Debug\EntityFramework.dll
+c:\users\noriega\source\repos\ProyectoJuego\ProyectoJuego\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\noriega\source\repos\ProyectoJuego\ProyectoJuego\bin\Debug\EntityFramework.xml
+c:\users\noriega\source\repos\ProyectoJuego\ProyectoJuego\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\noriega\source\repos\ProyectoJuego\ProyectoJuego\obj\Debug\ProyectoJuego.csprojResolveAssemblyReference.cache
+c:\users\noriega\source\repos\ProyectoJuego\ProyectoJuego\obj\Debug\ProyectoJuego.Properties.Resources.resources
+c:\users\noriega\source\repos\ProyectoJuego\ProyectoJuego\obj\Debug\ProyectoJuego.csproj.GenerateResource.Cache
+c:\users\noriega\source\repos\ProyectoJuego\ProyectoJuego\obj\Debug\ProyectoJuego.csproj.CoreCompileInputs.cache
+c:\users\noriega\source\repos\ProyectoJuego\ProyectoJuego\obj\Debug\ProyectoJuego.exe
+c:\users\noriega\source\repos\ProyectoJuego\ProyectoJuego\obj\Debug\ProyectoJuego.pdb
+c:\users\noriega\source\repos\ProyectoJuego\ProyectoJuego\obj\Debug\ProyectoJuego.Migrations.initial.resources
+c:\users\noriega\source\repos\ProyectoJuego\ProyectoJuego\obj\Debug\ProyectoJuego.frm_Menu.resources
+c:\users\noriega\source\repos\ProyectoJuego\ProyectoJuego\obj\Debug\ProyectoJuego.Juego.resources
