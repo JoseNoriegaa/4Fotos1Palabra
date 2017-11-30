@@ -9,3 +9,14 @@ c:\users\aylin\source\repos\4fotos\4fotos\obj\Debug\4fotos.pdb
 c:\users\aylin\source\repos\4fotos\4fotos\obj\Debug\4fotos.csprojResolveAssemblyReference.cache
 c:\users\aylin\source\repos\4fotos\4fotos\obj\Debug\_4fotos.Juego.resources
 C:\Users\Aylin\source\repos\4fotos\4fotos\obj\Debug\_4fotos.Menu.resources
+C:\Users\Noriega\Documents\GitHub\4Fotos1Palabra\4fotos\bin\Debug\4fotos.exe.config
+C:\Users\Noriega\Documents\GitHub\4Fotos1Palabra\4fotos\bin\Debug\4fotos.exe
+C:\Users\Noriega\Documents\GitHub\4Fotos1Palabra\4fotos\bin\Debug\4fotos.pdb
+C:\Users\Noriega\Documents\GitHub\4Fotos1Palabra\4fotos\obj\Debug\4fotos.csprojResolveAssemblyReference.cache
+C:\Users\Noriega\Documents\GitHub\4Fotos1Palabra\4fotos\obj\Debug\_4fotos.frm_Menu.resources
+C:\Users\Noriega\Documents\GitHub\4Fotos1Palabra\4fotos\obj\Debug\_4fotos.Juego.resources
+C:\Users\Noriega\Documents\GitHub\4Fotos1Palabra\4fotos\obj\Debug\_4fotos.Properties.Resources.resources
+C:\Users\Noriega\Documents\GitHub\4Fotos1Palabra\4fotos\obj\Debug\4fotos.csproj.GenerateResource.Cache
+C:\Users\Noriega\Documents\GitHub\4Fotos1Palabra\4fotos\obj\Debug\4fotos.csproj.CoreCompileInputs.cache
+C:\Users\Noriega\Documents\GitHub\4Fotos1Palabra\4fotos\obj\Debug\4fotos.exe
+C:\Users\Noriega\Documents\GitHub\4Fotos1Palabra\4fotos\obj\Debug\4fotos.pdb

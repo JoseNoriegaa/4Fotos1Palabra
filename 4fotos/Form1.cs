@@ -12,6 +12,7 @@ namespace _4fotos
 {
     public partial class frm_Menu : Form
     {
+        Jugada inGame = new Jugada();
         public frm_Menu()
         {
             InitializeComponent();
@@ -24,6 +25,11 @@ namespace _4fotos
            Juego frm = new Juego();
 
             frm.Show();
+        }
+
+        private void frm_Menu_Load(object sender, EventArgs e)
+        {
+            inGame.AgregarPalabra();
         }
     }
 }
