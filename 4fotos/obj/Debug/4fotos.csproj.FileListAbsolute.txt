@@ -1,0 +1,11 @@
+c:\users\aylin\source\repos\4fotos\4fotos\bin\Debug\4fotos.exe.config
+c:\users\aylin\source\repos\4fotos\4fotos\bin\Debug\4fotos.exe
+c:\users\aylin\source\repos\4fotos\4fotos\bin\Debug\4fotos.pdb
+c:\users\aylin\source\repos\4fotos\4fotos\obj\Debug\_4fotos.Properties.Resources.resources
+c:\users\aylin\source\repos\4fotos\4fotos\obj\Debug\4fotos.csproj.GenerateResource.Cache
+c:\users\aylin\source\repos\4fotos\4fotos\obj\Debug\4fotos.csproj.CoreCompileInputs.cache
+c:\users\aylin\source\repos\4fotos\4fotos\obj\Debug\4fotos.exe
+c:\users\aylin\source\repos\4fotos\4fotos\obj\Debug\4fotos.pdb
+c:\users\aylin\source\repos\4fotos\4fotos\obj\Debug\4fotos.csprojResolveAssemblyReference.cache
+c:\users\aylin\source\repos\4fotos\4fotos\obj\Debug\_4fotos.Juego.resources
+C:\Users\Aylin\source\repos\4fotos\4fotos\obj\Debug\_4fotos.Menu.resources
